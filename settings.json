@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Darcula (IntelliJ)",
+    "workbench.editor.enablePreview": false,
+    "remote.host": "",
+    "remote.port": null,
+    "extensions.ignoreRecommendations": true,
+    "explorer.confirmDelete": false,
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editor.untitled.hint": "hidden",
+
+    // editor settings
+    "editor.semanticHighlighting.enabled": true,
+    "editor.fontFamily": "SansSerif",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 22,
+    "editor.fontWeight": "300",
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme",
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontSize": 13,
+}
